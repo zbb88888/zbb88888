@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bobz965&layout=compact">
 
 ## Current Works
- * Make kube-ovn better !!
- * Leanning dpdk !!
+ * make kube-ovn better !!
+ * leanning dpdk !!
  * trying to make a useful and intersting tool!!
  
  
