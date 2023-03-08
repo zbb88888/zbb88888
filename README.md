@@ -5,14 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on kube-ovn...
-- 🌱 I’m currently learning dpdk...
-- 👯 I’m looking to collaborate on dpvs...
-- 🤔 I’m looking for help with dpvs...
-- 💬 Ask me about kube-ovn...
+- 🔭 I’m currently working on kube-ovn
+- 🌱 I’m currently learning dpdk
+- 👯 I’m looking to collaborate on dpvs
+- 🤔 I’m looking for help with dpvs
+- 💬 Ask me about kube-ovn
 - 📫 How to reach me: jmdxjsjgcxy@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: dive info sdn
 -->
 
 ## :computer: Technologies I Love
@@ -23,9 +22,9 @@ Here are some ideas to get you started:
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bobz965&layout=compact">
 
 ## Current Works
- * make kube-ovn better !!
- * leanning dpdk !!
- * trying to make a useful and intersting tool!!
+ * make kube-ovn better
+ * leanning dpdk
+ * trying to make a useful and interesting tool
  
  
  ![Bobz965's github stats](https://github-readme-stats.vercel.app/api?username=bobz965&show_icons=true&hide=[%22issues%22])
