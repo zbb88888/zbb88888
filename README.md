@@ -24,7 +24,3 @@ Here are some ideas to get you started:
 ## Current Works
  * make kube-ovn better
  * leanning dpdk
- * trying to make a useful and interesting tool
- 
- 
- ![Bobz965's github stats](https://github-readme-stats.vercel.app/api?username=bobz965&show_icons=true&hide=[%22issues%22])
