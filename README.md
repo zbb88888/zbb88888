@@ -36,10 +36,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2047%20mins-blue)
 
-**Timeline**
-
-# ![Lines of Code chart](https://raw.githubusercontent.com/zbb88888/zbb88888/main/assets/bar_graph.png)
-
 <!--END_SECTION:waka-->
 
 <hr>
