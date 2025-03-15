@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/zbb88888/zbb88888/master/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/zbb88888/zbb88888/main/assets/bar_graph.png)
 
 <!--END_SECTION:waka-->
 
