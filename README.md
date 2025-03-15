@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zbb88888&layout=compact">
 
-## Current Works
- * make kube-ovn better
- * leanning dpdk
-
 ## Follow Me
 
 [![Gmail Badge](https://img.shields.io/badge/-ing.miller.vega@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:jmdxjsjgcxy@gmail.com)
@@ -36,16 +32,11 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbb88888&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-tt
+
 <hr>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2047%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-139-blue)
-
-**Timeline**
-![Lines of Code chart](https://raw.githubusercontent.com/zbb88888/zbb88888/master/assets/bar_graph.png)
 
 <!--END_SECTION:waka-->
 
