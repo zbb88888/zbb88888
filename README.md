@@ -29,22 +29,14 @@ Here are some ideas to get you started:
 
 <hr>
 
-## ⚡ Technologies
-
-![go](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=go)
-![python](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
 <hr>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zbb88888&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbb88888&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zbb88888)
-
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+tt
 <hr>
 
 <!--START_SECTION:waka-->
