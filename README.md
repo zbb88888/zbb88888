@@ -11,6 +11,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: dive info sdn
 -->
 
+## My blog
+
+- https://www.jianshu.com/u/aa6fa021bfec 
+
+- https://juejin.cn/user/1526576348673463
+
+## My share in CNCF Kubevirt 2024
+
+https://www.youtube.com/watch?v=KfxZR-YsZ1E&list=PLj6h78yzYM2NNl95W4Rtp0e0MX9FCw8RN&index=8&ab_channel=CNCF%5BCloudNativeComputingFoundation%5D
+
+
 ## :computer: Technologies I Love
 * K8S
 * SDN
