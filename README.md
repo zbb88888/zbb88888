@@ -71,17 +71,9 @@ https://www.youtube.com/watch?v=KfxZR-YsZ1E&list=PLj6h78yzYM2NNl95W4Rtp0e0MX9FCw
 * kubeovn
 * OpenStack
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zbb88888&layout=compact">
-
 ## Follow Me
 
-[![Gmail Badge](https://img.shields.io/badge/-ing.miller.vega@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:jmdxjsjgcxy@gmail.com)
-
-<hr>
-
-<hr>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zbb88888&count_private=true&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zbb88888&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbb88888&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
