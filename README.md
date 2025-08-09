@@ -54,6 +54,14 @@ Here are some ideas to get you started:
 
 道德经从来没有努力这个词
 
+## 格物致知
+
+万事万物 只要感觉到就可以啦；
+感觉不到就会停留在一种存在，就是一种物；
+感觉到就会发生变化；
+觉知的过程，就是变化的过程；
+不要执念；
+
 ## My blog
 
 - https://www.jianshu.com/u/aa6fa021bfec 
