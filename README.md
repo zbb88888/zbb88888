@@ -10,6 +10,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jmdxjsjgcxy@gmail.com
 - ⚡ Fun fact: dive info sdn
 -->
+
+## 格物致知
+
+万事万物 只要感觉到就可以啦；
+
+感觉不到就会停留在一种存在，就是一种物；
+
+感觉到就会发生变化；
+
+觉知的过程，就是变化的过程；
+
+不要执念；
+
+
 ## 顺势而为
 
 因为你把努力当任务，在道家看来，所谓的努力，其实是对结果的执着和强求。
@@ -54,17 +68,7 @@ Here are some ideas to get you started:
 
 道德经从来没有努力这个词
 
-## 格物致知
 
-万事万物 只要感觉到就可以啦；
-
-感觉不到就会停留在一种存在，就是一种物；
-
-感觉到就会发生变化；
-
-觉知的过程，就是变化的过程；
-
-不要执念；
 
 ## My blog
 
