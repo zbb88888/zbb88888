@@ -30,22 +30,6 @@ Here are some ideas to get you started:
 
 努这个字，上面是一个奴字。
 
-像奴隶一样逼自己，这就是一种被迫，痛苦强求的状态。这种执着和强求会让你失去平衡，变得焦虑和不适。
-
-老子说的无为，不是让你躺平。
-
-是让你像流水一样，不抢道，不争先。但是该流到大海的时候，自然就到了。 
-
-整本道德经都在讲，顺势而为。
-
-势这个字，就是力上执。
-
-努这个字呢，力上奴。
-
-执：主动
-
-奴：被动
-
 放下自己一定要怎么样的执念，找到属于自己的节奏。
 
 该吃饭吃饭
@@ -88,10 +72,6 @@ https://www.youtube.com/watch?v=KfxZR-YsZ1E&list=PLj6h78yzYM2NNl95W4Rtp0e0MX9FCw
 * OpenStack
 
 ## Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zbb88888&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbb88888&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
