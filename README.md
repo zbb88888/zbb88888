@@ -15,7 +15,20 @@ Here are some ideas to get you started:
 
 ## 顺势而为
 
+## 宜
 
+言宜慢
+心宜宜善
+行敏
+骨宜刚
+气宜柔
+志宜大
+胆宜小
+心宜虚
+言宜实
+慧宜增
+福宜惜
+虑不远，忧亦近
 
 ## My blog
 
