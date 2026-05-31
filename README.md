@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 ## 宜
 
+```bash
 言宜慢
-心宜宜善
-行敏
+心宜善
+行宜敏
 骨宜刚
 气宜柔
 志宜大
@@ -29,6 +30,8 @@ Here are some ideas to get you started:
 慧宜增
 福宜惜
 虑不远，忧亦近
+
+```
 
 ## My blog
 
