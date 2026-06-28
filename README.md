@@ -11,10 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: dive info sdn
 -->
 
-## 格物致知
-
-## 顺势而为
-
 ## 宜
 
 ```bash
@@ -32,6 +28,23 @@ Here are some ideas to get you started:
 虑不远，忧亦近
 
 ```
+
+## 《汉武大帝》观感
+天赋 才能 谋略 实力 勇气 决心
+
+天时地利人和
+
+公器权利
+
+道德 法律
+
+公与私和，利国利民
+
+实力匹配地位，则可以服众
+
+否则，人心各异，纷乱如麻
+
+
 
 ## My blog
 
