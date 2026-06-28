@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 公器权利
 
-道德 法律
+道德法律
 
 公与私和，利国利民
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 否则，人心各异，纷乱如麻
 
-
+环境四季轮回，人若不在雄伟目标下进行主观能动性的改造，则反复罢了
 
 ## My blog
 
