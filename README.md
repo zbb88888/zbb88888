@@ -10,6 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jmdxjsjgcxy@gmail.com
 - ⚡ Fun fact: dive info sdn
 -->
+## 规矩
+
+规矩、法律：控制行为的爆炸范围
 
 ## 宜
 
